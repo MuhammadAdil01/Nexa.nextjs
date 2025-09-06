@@ -5,7 +5,7 @@ import { Progress } from "@/components/ui/progress"
 import { Button } from "@/components/ui/button"
 import { CheckCircle2, Circle } from "lucide-react"
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts"
-import { DashboardLayout } from "@/components/dashboard"
+import { DashboardLayout } from "@/components/Dashboard"
 
 export default function StudentDashboard() {
   const progressData = [

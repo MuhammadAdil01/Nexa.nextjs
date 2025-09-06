@@ -10,7 +10,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Separator } from "@/components/ui/separator";
 import { Plus, Download, Settings } from "lucide-react";
 import Themetoggle from "../theme-toggle";
-import { DashboardLayout } from "@/components/dashboard";
+import { DashboardLayout } from "@/components/Dashboard";
 
 function StatCard({
   title,

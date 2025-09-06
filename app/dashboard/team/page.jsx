@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Star } from "lucide-react"
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, BarChart, Bar } from "recharts"
-import { DashboardLayout } from "@/components/dashboard"
+import { DashboardLayout } from "@/components/Dashboard"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 
