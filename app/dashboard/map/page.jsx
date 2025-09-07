@@ -1,4 +1,4 @@
-import { DashboardLayout } from '@/components/Dashboard'
+import { DashboardLayout } from '@/components/dashboard'
 import { Button } from '@/components/ui/button'
 import { Calendar,Users,ArrowUpRight,TrendingUp,BarChart3,Plus,Facebook ,Instagram,Twitter,Linkedin,LinkIcon,Eye,Heart,MessageCircle,Share,Clock } from 'lucide-react'
   import {

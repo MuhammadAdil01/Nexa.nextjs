@@ -13,7 +13,7 @@ import { Sheet, SheetContent, } from '@/components/ui/sheet'
 import { cn } from '@/lib/utils'
 
 const navigation = [
-  { name: 'Dashboard', href: '/dashboard', icon:Settings  },
+  { name: 'dashboard', href: '/dashboard', icon:Settings  },
   { name: 'Team', href: '/dashboard/team', icon: Users },
   { name: 'Calendar', href: '/dashboard/calendar', icon: Calendar },
   { name: 'Map', href: '/dashboard/map', icon: MapPinned },

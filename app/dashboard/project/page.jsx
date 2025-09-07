@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/button"
 import { Progress } from "@/components/ui/progress"
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts"
 import { Users, CheckCircle2, FolderKanban, Clock } from "lucide-react"
-import { DashboardLayout } from "@/components/Dashboard"
+import { DashboardLayout } from "@/components/dashboard"
 
 export default function ProjectDashboard() {
   const chartData = [

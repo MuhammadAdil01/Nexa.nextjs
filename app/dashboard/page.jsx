@@ -10,7 +10,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Separator } from "@/components/ui/separator";
 import { Plus, Download, Settings } from "lucide-react";
 import Themetoggle from "../theme-toggle";
-import { DashboardLayout } from "@/components/Dashboard";
+import { DashboardLayout } from "@/components/dashboard";
 
 function StatCard({
   title,
@@ -73,7 +73,6 @@ export default function DashboardPage() {
           <div className="flex w-full items-center gap-2 md:w-auto">
             <Input
               placeholder="Search..."
-              value={query}
               onChange={(e) => setQuery(e.target.value)}
               className="md:w-72"
             />
